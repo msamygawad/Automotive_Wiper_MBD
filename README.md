@@ -13,8 +13,8 @@ System constrains:
 2- if system operates on Mode (1) && user changed speed --> Change speed gradually not instantaneously !!
 
 TODOs:
-1- apply gradual increase method to all speed changes
-2- simulate model generated code in proteus
-3- Add graphical representations for wipers and speed knops
+1- apply gradual increase method to all speed changes  
+2- simulate model generated code in proteus  
+3- Add graphical representations for wipers and speed knops  
 
 ![System](https://github.com/msamygawad/Automotive_Wiper_MBD/blob/main/readmeImage.png)
