@@ -17,4 +17,12 @@ TODOs:
 2- simulate model generated code in proteus  
 3- Add graphical representations for wipers and speed knops  
 
+
+System:   
 ![System](https://github.com/msamygawad/Automotive_Wiper_MBD/blob/main/readmeImage.png)
+
+Input Senario:  
+![input](https://github.com/msamygawad/Automotive_Wiper_MBD/blob/main/Images/InputSenario.png)
+
+Output Result
+![output](https://github.com/msamygawad/Automotive_Wiper_MBD/blob/main/Images/Results.png)
